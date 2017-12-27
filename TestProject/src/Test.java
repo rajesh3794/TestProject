@@ -7,6 +7,8 @@ public class Test {
 		
 		System.out.println("test case was failed");
 		
+		System.out.println("hello");
+		
 		
 
 	}
